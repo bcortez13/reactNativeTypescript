@@ -63,3 +63,9 @@ buck-out/
 #
 .jest/
 coverage/
+
+# android
+android/
+
+# ios
+ios/
